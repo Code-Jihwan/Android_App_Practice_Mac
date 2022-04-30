@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab1"
+        android:title="홈"
+        android:icon="@drawable/home"
+        android:enabled="true"
+
+        />
+    <item
+        android:id="@+id/tab2"
+        android:title="적럽내역"
+        android:icon="@drawable/list_icon"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/tab3"
+        android:title="위치"
+        />
+    <item
+        android:id="@+id/tab4"
+        android:title="포인트"
+        />
+    <item
+        android:id="@+id/tab5"
+        android:title="My"
+        />
+
+</menu>
